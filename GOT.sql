@@ -1,4 +1,5 @@
-﻿CREATE TABLE got_Eps
+﻿/*Mercedes usead_cars dataset*/
+CREATE TABLE got_Eps
 (
     Season	varchar(300),
     No. of Episode (Season)	varchar(300),
