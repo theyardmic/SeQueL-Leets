@@ -1,4 +1,4 @@
-﻿/*Mercedes usead_cars dataset*/
+﻿/*GOT usead_cars dataset*/
 CREATE TABLE got_Eps
 (
     Season	varchar(300),
